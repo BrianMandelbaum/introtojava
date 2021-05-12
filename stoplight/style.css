@@ -1,0 +1,36 @@
+.rectangle{
+  height: 200px;
+  width: 100px;
+  background: black;
+  
+}
+
+.circle{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: red;
+}
+
+.circle2{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: yellow;
+}
+
+.circle3{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: green;
+}
+
+body{
+  background-color: blue;
+  margin: auto;
+  padding: auto;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
